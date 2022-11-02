@@ -1,0 +1,38 @@
+Exercícios de Algoritmo
+
+
+Exercício 01
+
+Resposta
+
+A – 9
+b – 128
+c – 49
+d - 100
+e - 13
+f – d
+
+
+Exercício 02
+
+Resposta
+
+Trocar o pneu furado:
+
+Sinalizar a pista com o triângulo;
+Verificar se tem estepe;
+Verificar se tem macaco de roda;
+Verificar se tem a chave de roda;
+Folgar os parafusos do pneu furado;
+Colocar o macaco de roda embaixo do carro;
+Suspender o carro com o macaco de roda;
+Retirar os parafusos do pneu furado;
+Retirar o pneu furado;
+Colocar o estepe no lugar do pneu furado;
+Colocar os parafusos no estepe;
+Baixar o carro com macaco de roda;
+Reforçar o aperto dos parafusos;
+Guardar o pneu furado;
+Guardar a chave de roda;
+Guardar o macaco de roda;
+Guardar o triângulo.
